@@ -1,0 +1,8 @@
+
+
+path: dataset  # dataset root folder
+train: Train
+val: Val
+
+nc: 3  # number of classes
+names: ["Glioma", "Meningioma", "Pituitary"]
