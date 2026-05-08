@@ -55,7 +55,7 @@ The system includes doctor authentication, automated medical PDF reports, patien
 ---
 
 ## 🏗 Project Structure
-
+```
 BrainTumorDetection/
 │
 ├── app.py
@@ -80,7 +80,7 @@ BrainTumorDetection/
 │ ├── history.html
 │ ├── dashboard.html
 │ └── admin.html
-
+```
 
 ---
 
